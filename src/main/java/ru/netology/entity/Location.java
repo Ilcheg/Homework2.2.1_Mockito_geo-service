@@ -1,5 +1,6 @@
 package ru.netology.entity;
 
+
 public class Location {
 
     private final String city;
@@ -32,4 +33,6 @@ public class Location {
     public int getBuiling() {
         return builing;
     }
+
+
 }
